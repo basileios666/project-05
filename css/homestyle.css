@@ -1,0 +1,35 @@
+.welcome{
+    display: flex;
+    justify-content: center;
+    color: white;
+    border: solid 1px #bba14f;
+    font-size:small;
+    margin-top: 3px;
+    padding: 3px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 3px #bba14f;
+
+}
+.gold{
+    color: #bba14f;
+    margin-top: 15px;
+}
+.gold:hover{
+    color: white;
+}
+.white{
+    color: white;
+    margin-top: 15px;
+}
+.white:hover{
+    color: #bba14f;
+}
+.welcome:hover{
+    color: #bba14b;
+    font-weight: 600;
+    box-shadow: 3px 3px 6px #bba14b;
+}
+
+.foot{
+    color: white;
+}
