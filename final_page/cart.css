@@ -1,0 +1,21 @@
+#x{
+    font-size:36px;
+    color: #537EC5;
+}
+#check{
+    background-color: #537EC5;
+    color: white;
+    margin-left: 2%;
+}
+#apply{
+    background-color: #537EC5;
+    color: white;
+}
+#btn_update {
+    background-color: #537EC5;
+    color: white;
+    
+}
+#carttotal{
+    margin-top: 5%;
+}

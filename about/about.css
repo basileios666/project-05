@@ -1,0 +1,68 @@
+:root {
+    --main-color1: #010038;
+    --main-color2: #293A80;
+    --main-color3: #537EC5;
+    --main-color4: #F39422;
+    --sub-color1: white;
+    --sub-color2: #9fec51;
+    --sub-color3: #f04523;
+}
+
+.about_container2{
+display: flex;
+justify-content: space-around;  
+align-items: center;
+}
+.about_container{
+margin-left: 10%;
+margin-top: 5%;
+    width: 80%;  
+   
+    }
+
+.about_text{
+    display: flex;
+padding-right: 30%;
+font-size: 80px;
+color: #010038;
+}
+.about_description{
+    font-size: 20px;
+    width: 40%;
+    color: #010038;
+}
+
+ .about_img{
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+width:90%;
+height: 10%;
+
+}
+.about_img1{
+   height: 400px;
+    width:90%;
+    }
+
+
+        .history_container{
+        
+        margin-top: 5%;
+            width: 100%;  
+
+            }
+        
+        .history_text{ 
+            margin-left: 37%;
+        padding-right: 30%;
+        font-size: 80px;
+        color: #010038;
+        }
+        .history_description{
+            padding: 2%;
+            margin-left: 15%;
+            font-size: 20px;
+            width: 70%;
+            color: #010038;
+            text-align: center;

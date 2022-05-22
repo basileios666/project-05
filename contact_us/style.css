@@ -1,0 +1,80 @@
+/* Contact us Page CSS */
+
+#contact_container {
+    box-shadow: 0 0 10px 5px rgba(125, 124, 121, 0.3);
+    margin-top: 5%;
+}
+
+#contact_img {
+    width: 100%;
+    height: auto;
+}
+
+#contact_form_container {
+    background-color: #f5f6f7;
+    padding: 2%;
+}
+
+.btn {
+    background-color: #537EC5;
+    color: white;
+}
+
+#contact_info {
+    background-color: #293A80;
+    color: white;
+    padding: 2%;
+}
+
+.contact_li {
+    margin-bottom: 5%;
+}
+
+.contact_icon {
+    font-size: 24px;
+    color: white;
+    margin-right: 4%;
+}
+
+
+
+/* Info Page CSS */
+.user_container {
+    box-shadow: 0 0 10px 5px rgba(125, 124, 121, 0.3);
+    margin-top: 5%;
+}
+
+.sidebar_div {
+    background-color: #293A80;
+    padding: 10%;
+    padding-left: 8%;
+}
+
+.user_icons {
+    font-size: 24px;
+    color: white;
+    margin-right: 5%;
+}
+
+.user_acc_links {
+    color: white;
+    text-decoration: none;
+}
+
+#user_info_form {
+    background-color: #f5f6f7;
+    padding: 2%;
+    padding-top: 7%;
+    padding-bottom: 5.15%;
+}
+
+#user_orders_table {
+    background-color: #f5f6f7;
+    padding: 2%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.orders_table_head{
+    background-color: #293A80; color: white;
+}
