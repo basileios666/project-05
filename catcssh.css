@@ -1,0 +1,223 @@
+
+:root {
+    --main-color1: #010038;
+    --main-color2: #293A80;
+    --main-color3: #537EC5;
+    --main-color4: #F39422;
+    --sub-color1: white;
+    --sub-color2: #9fec51;
+    --sub-color3: #f04523;
+}
+
+
+.tablecat{
+    width:60%;
+margin-left: 50px;
+}
+.tablecatbox{
+    display: flex;
+    justify-content: center;
+}
+
+.searchbox{
+    
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-left: 60px;
+ 
+}
+
+.search{
+    width:300px; 
+   
+}
+
+.table-striped>thead>tr>th {
+  background-color: #010038;
+  color: white;
+}
+.addcatformbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    border: solid 1px #010038;
+    padding: 30px;
+    border-radius: 2%;
+    box-shadow: 0 5px 10px #293a80b7;
+    width:35%
+}
+.addcatformcont{
+    display: flex;
+    justify-content: center;
+    width:100%;
+  
+  margin-top: 5%;
+  margin-left: 7%;}
+
+ .alertproadd{
+     background-color: rgba(255, 0, 0, 0.148);
+     border-radius: 5px;
+     padding: 3px;
+     margin: 2px;
+ }
+
+
+
+  .addprodformbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    border: solid 1px #010038;
+    padding: 30px;
+    border-radius: 2%;
+    box-shadow: 0 5px 10px #293a80b7;
+    width:35%
+
+}
+.addprodformcont{
+    display: flex;
+    justify-content: center;
+    width:100%;
+  
+  margin-top: 5%;
+  margin-left: 7%;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* frgtrhytjuykiuloiuyjhtgrfedws */
+.updatecatformcont{
+    display: flex;
+    justify-content: center; 
+     width: 100%;
+    margin-top: 10%;
+    
+   
+}
+
+.updatecatformbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+    border: solid 1px #010038;
+    padding: 30px;
+    border-radius: 2%;
+    width: 35%;
+    box-shadow: 0 5px 10px #293a80b7; 
+    margin-left: 35%;
+}
+.headerupdate{
+    padding: 3%;
+   color: #010038;
+   display: flex;
+   justify-content: start;
+}
+
+
+/* ********** */
+.updateprodformcont{
+    display: flex;
+    justify-content: center; 
+     width: 100%;
+    margin-top: 10%;
+    
+   
+}
+
+.updateprodformbox{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    border: solid 1px #010038;
+    padding: 25px;
+    border-radius: 2%;
+    width: 30%;
+    box-shadow: 0 5px 10px #293a80b7; 
+    margin-left: 40%;
+}
+
+
+.formcont{
+    display: flex;
+    justify-content: center; 
+     width: 100%;
+    margin-top: 3%;
+    
+   
+}
+
+.formbox{
+    display: flex;
+    justify-content: center;
+    border: solid 1px #010038;
+    padding: 25px;
+    border-radius: 2%;
+    width: 70%;
+    box-shadow: 0 5px 10px #293a80b7; 
+    margin-left: 20%;
+}
+
+
+
+.masthead{
+    display: flex;
+    justify-content: center; 
+     width: 100%;
+    margin-top: 7%;
+  
+   
+}
+.containeradmin{
+    display: flex;
+    justify-content: center;
+    border: solid 1px #010038;
+    padding: 10%;
+    border-radius: 2%;
+    width: 70%;
+    box-shadow: 0 8px 17px #293a80b7; 
+    margin-left: 20%;
+    display: block;
+    background-color: #010038;
+    
+}
+.subheadingadmin{
+    display: block;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    font-size: 20px;
+    color: white;
+    
+    
+}
+.textadmin{
+    display: block;
+    display: flex;
+    justify-content: center;
+   
+    font-size: 50px;
+    color: white;
+    font-weight: bolder;
+    
+    
+}
